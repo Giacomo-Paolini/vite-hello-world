@@ -9,9 +9,7 @@ export default {
 </script>
 
 <template>
-  <div>
-    <AppTitle />
-  </div>
+  <AppTitle />
 </template>
 
 <style></style>
